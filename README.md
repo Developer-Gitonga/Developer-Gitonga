@@ -23,17 +23,17 @@
 ---
 
 <div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lemmymwaura&show_icons=true&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Developer-Gitonga&show_icons=true&theme=radical">
 
-<img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=lemmymwaura&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
+<img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=Developer-Gitonga&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 
 <br><br><br><br><br><br><br><br><br>
 
 <div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemmymwaura&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Gitonga&layout=compact">
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lemmymwaura">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Developer-Gitonga">
 </div>
 
 <br><br><br><br><br><br><br><br><br>
@@ -47,5 +47,5 @@
 [codewars]: https://www.codewars.com/users/LemmyMwaura
 [CSSBattle]: https://cssbattle.dev/player/lemmy
 [spotify]:https://open.spotify.com/user/1y6fetq0f8qp3s94e5yfrerg5?si=2d08857358cc4862
-[discord]: https://www.codewars.com/users/LemmyMwaura
-[gmail]: https://www.lemmymwaurabusiness@gmail.com
+[discord]: https://www.codewars.com/users/Jogan
+[gmail]: https://www.aizensalim52@gmail.com
