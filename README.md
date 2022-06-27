@@ -4,11 +4,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="lemmyMwaura | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lemmyMwaura | Codepen" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="lemmyMwaura | Codewars" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
-[<img align="left" alt="lemmyMwaura | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="lemmyMwaura | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Dev-Git | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Dev-Git | Codepen" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+[<img align="left" alt="Dev-Git | Codewars" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
+[<img align="left" alt="Dev-Git | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dev-Git | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br>
 
