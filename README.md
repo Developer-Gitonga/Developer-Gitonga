@@ -23,7 +23,7 @@
 ---
 
 <div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Developer-Gitonga&show_icons=true&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Developer-Gitonga&show_icons=true&theme=tokyonight">
 
 <img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=Developer-Gitonga&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
 </div>
