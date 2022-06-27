@@ -33,7 +33,7 @@
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Gitonga&layout=compact">
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Developer-Gitonga">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevGit">
 </div>
 
 <br><br><br><br><br><br><br><br><br>
