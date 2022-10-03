@@ -1,6 +1,6 @@
-## Hi there, I'm Developer Gitonga👋 
+## Hi there, 👋 
 
-- 🌱 Hi I’m Dev Gitonga a full-stack developer from Nairobi, Kenya.
+- 🌱 I’m Dev Gitonga, a full-stack developer from Nairobi, Kenya.
 
 ### Connect with me:
 
