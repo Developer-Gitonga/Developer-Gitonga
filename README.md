@@ -43,9 +43,9 @@
 [twitter]: https://#
 [linkedin]: https://#
 [home]: https://#
-[codepen]: https://codepen.io/lemmymwaura
-[codewars]: https://www.codewars.com/users/LemmyMwaura
-[CSSBattle]: https://cssbattle.dev/player/lemmy
+[codepen]: https://codepen.io
+[codewars]: https://www.codewars.com/users
+[CSSBattle]: https://cssbattle.dev/player
 [spotify]:https://open.spotify.com/user/1y6fetq0f8qp3s94e5yfrerg5?si=2d08857358cc4862
 [discord]: https://www.codewars.com/users/Jogan
 [gmail]: https://www.aizensalim52@gmail.com
