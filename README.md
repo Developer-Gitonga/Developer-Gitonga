@@ -1,4 +1,4 @@
-## Hi there, 👋 
+## Hi, 👋 
 
 - 🌱 I’m Dev Gitonga, a full-stack developer from Nairobi, Kenya.
 
