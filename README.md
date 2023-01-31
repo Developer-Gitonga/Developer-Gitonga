@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;My+name+is+Gitonga+Mwangi;I+am+a+Full+Stack+Developer;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;My+name+is+Gitonga;I+am+a+Full+Stack+Developer;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=developer-gitonga)
 
